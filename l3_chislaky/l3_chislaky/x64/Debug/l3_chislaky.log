@@ -1,0 +1,3 @@
+﻿  l3_chislaky.cpp
+D:\vscode\l3_chislaky\l3_chislaky\l3_chislaky.cpp(23): warning C4715: func: значение возвращается не при всех путях выполнения
+  l3_chislaky.vcxproj -> D:\vscode\l3_chislaky\x64\Debug\l3_chislaky.exe

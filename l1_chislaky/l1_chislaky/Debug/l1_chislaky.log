@@ -1,0 +1,3 @@
+﻿  l1_chislaky.cpp
+D:\vscode\l1_chislaky\l1_chislaky\l1_chislaky.cpp(37,14): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  l1_chislaky.vcxproj -> D:\vscode\l1_chislaky\Debug\l1_chislaky.exe
